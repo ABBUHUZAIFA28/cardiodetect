@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+lightgbm
+joblib
+
+
+// pip install -r requirements.txt (only once)
+//python app.py (whnever u want to run backend)
+
